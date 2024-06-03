@@ -1,0 +1,35 @@
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.mainForm.resources
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.DepartmentForm.resources
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.EmployeeForm.resources
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\bin\Debug\DataAccessLayer.dll
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\bin\Debug\DataAccessLayer.pdb
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\bin\Debug\DataAccessLayer.dll.config
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\nicki\OneDrive\Documents\College\2023 Spring\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.StartForm.resources
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\bin\Debug\DataAccessLayer.dll
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\bin\Debug\DataAccessLayer.pdb
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\bin\Debug\DataAccessLayer.dll.config
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.DepartmentForm.resources
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.EmployeeForm.resources
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.MainForm.resources
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.StartForm.resources
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\nicki\OneDrive\Documents\College\2023a Spring Semester\CS 3280\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
